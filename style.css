@@ -72,3 +72,6 @@ img {
   right: 20px;
   bottom: 20px;
 }
+img:hover {
+  cursor: pointer;
+}
