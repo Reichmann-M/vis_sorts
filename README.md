@@ -1,3 +1,5 @@
+# Visualization of sorting algorithms
+
 Following are four different sorting algorithms visualized:
 
 1. Bubble sort
